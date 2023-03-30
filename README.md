@@ -1,16 +1,11 @@
-### Hi there 👋
+<a href="https://github.com/MaxsudMannanov">
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxsudMannanov&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxsudMannanov&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxsudMannanov&theme=2077&utcOffset=5"><br>    
+    </p>
+</a> 
 
-<!--
-**MaxsudMannanov/MaxsudMannanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    👋 Welcome to my profile!
+    ❓ If you have any questions or suggestions for me, write to me in Telegram.
+    ✉️ t.me/F1W12 | @F1W12
